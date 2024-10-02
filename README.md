@@ -39,5 +39,7 @@ The model's performance is evaluated based on its ability to accurately predict 
 
 ## Refernces
 [1] Dillenburger, K. (2014, October 28). Why early diagnosis of autism in children is a good thing. The Conversation. https://theconversation.com/why-early-diagnosis-of-autism-in-children-is-a-good-thing-33290 
+
 [2] Signs & Symptoms | Autism Spectrum Disorder (ASD) | NCBDDD | CDC. (2021, March 29). Centers for Disease Control and Prevention. https://www.cdc.gov/ncbddd/autism/signs.html 
+
 [3] K. Vakadkar, D. Purkayastha, and D. Krishnan, “Detection of autism spectrum disorder in children using machine learning techniques,” SN Computer Science, vol. 2, no. 5, Jul. 2021, doi: 10.1007/s42979-021-00776-5.
